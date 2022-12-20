@@ -5,6 +5,10 @@ var brush = display.getContext("2d");
 brush.fillStyle = "darkgreen";
 brush.fillRect(80, 60, 350, 300);
 
+//This code allows you to draw a contour on the figure
+brush.strokeStyle = "black";
+brush.strokeRect(80, 60, 350, 300);
+
 //This code is used to draw the circles on the Creeper´s head
 brush.fillStyle = "black";
 brush.fillRect(130, 120, 90, 90);
