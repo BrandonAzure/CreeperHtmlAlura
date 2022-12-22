@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+
+    background-color: white;
+}
+
+.titles {
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 15px;
+
+}
+
+#banner {
+    width: 100%;
+
+}
+
+#mission {
+    font-size: 20px;
+
+}
+
+#items {
+    font-style: italic;
+}
+
+.about{
+    background-color: #CCCC;
+    padding: 20px;
+}
+
+.mainTitle{
+    padding-left: 30px;
+}
+.spreads {
+    background-color: white;
+    height: 100%;
+    
+}
+
+.differentialImage{
+    width: 50%;
+    
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+}
